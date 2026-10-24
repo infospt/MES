@@ -1,7 +1,8 @@
-MON EPICERIE SANTE 4.2 - CORRECTION AJOUT RECETTES
+Mon épicerie santé — Version 4.4
 
-Le bouton Ajouter a l epicerie transfere les ingredients, remet les filtres a Toutes, ouvre les categories des ingredients et affiche Mon epicerie. Corrections pour smoothies et recettes TCHUK.
+Mise à jour : numéro de version visible dans l’en-tête et au bas de l’application.
+Autres fonctionnalités héritées de la version 4.3.
 
-INSTALLATION: decompresser et televerser tous les fichiers a la racine du depot GitHub Pages MES, en remplacant les fichiers existants.
+Installation GitHub Pages : déposer les fichiers décompressés à la racine du dépôt, puis valider (Commit changes).
 
-Vos donnees restent dans le navigateur du meme appareil et de la meme origine URL. Faire une sauvegarde de la liste avant mise a jour si elle est importante.
+Après publication, actualiser l’application. Sur Android, fermer et rouvrir si une ancienne version est encore en cache.
